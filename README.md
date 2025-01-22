@@ -50,4 +50,4 @@ Ces patterns sont utilisés pour gérer les défis liés à la programmation con
 1. **Clonez le dépôt :**
    Pour cloner ce dépôt, utilisez la commande suivante :
    ```bash
-   git clone https://github.com/votre-nom-utilisateur/nom-du-repository.git
+   git clone https://github.com/MihajasoaAlain/design-patterns-Study/
